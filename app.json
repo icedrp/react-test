@@ -1,5 +1,10 @@
 {
   "expo": {
-    "sdkVersion": "23.0.0"
+    "sdkVersion": "23.0.0",
+    "icon": "https://res.cloudinary.com/freshketimage001/image/upload/v1502355269/freshket/Mini-Logo.png",
+    "loading": {
+      "backgroundColor": "#FFFFFF",
+      "icon": "https://res.cloudinary.com/freshketimage001/image/upload/v1502355269/freshket/Mini-Logo.png"
+    }
   }
 }
